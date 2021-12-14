@@ -8,6 +8,7 @@ public class Student {
 		}
 		else {
 			System.out.println("not eligible to vote");
+			System.out.println(" ");
 
 
 			}
